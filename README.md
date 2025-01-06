@@ -45,8 +45,7 @@ To run this project, ensure you have the following installed:
 - **Visualization**: Detected faces are highlighted using rectangles drawn on the original frame.
 - **Exit**: The script stops when the user presses `q`.
 
-## Example Output
-![Example Output](example_output.png)
+
 
 ## Contributing
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve the documentation, feel free to fork the repository and create a pull request.
