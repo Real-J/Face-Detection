@@ -25,11 +25,8 @@ To run this project, ensure you have the following installed:
 
 2. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
-   ```
 
-   If `requirements.txt` is not provided, you can manually install the libraries:
-   ```bash
+  
    pip install dlib opencv-python numpy
    ```
 
