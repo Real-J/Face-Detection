@@ -54,8 +54,6 @@ To run this project, ensure you have the following installed:
 ## Contributing
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve the documentation, feel free to fork the repository and create a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgments
 - [dlib Library](http://dlib.net/)
