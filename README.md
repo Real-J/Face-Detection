@@ -19,7 +19,7 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/face-detection.git
+   git clone https://github.com/Real-J/face-detection.git
    cd face-detection
    ```
 
@@ -33,7 +33,7 @@ To run this project, ensure you have the following installed:
 ## Usage
 1. Run the script:
    ```bash
-   python face_detection.py
+   python ws.py
    ```
 
 2. Press `q` to quit the application.
